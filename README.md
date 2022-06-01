@@ -1,1 +1,1 @@
-https://replit.com/@BossAmiaya/Zuri3#Zuri3/index.js
+https://replit.com/@BossAmiaya/Zuri3#./index.js
